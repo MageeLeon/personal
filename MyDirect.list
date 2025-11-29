@@ -1,0 +1,12 @@
+# 自定义补充列表(国内域名不解析时，防止走代理使用)
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,acwct.cn
+DOMAIN-SUFFIX,472361.xyz
+DOMAIN-SUFFIX,xxqqx.cn
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,baidu
+
+# IP段匹配
+IP-CIDR,219.146.1.66/32,no-resolve
