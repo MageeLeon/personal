@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,omtrdc.net
 
+# 域名顶级后缀匹配
+DOMAIN,speed.cloudflare.com
+
 # 域名关键字匹配
 #DOMAIN-KEYWORD,baidu
 
