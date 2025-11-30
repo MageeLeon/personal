@@ -1,1 +1,47 @@
-1
+# 自定义AI补充列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,circumlunar.space
+DOMAIN-SUFFIX,vulpes.one
+DOMAIN-SUFFIX,mozz.us
+DOMAIN-SUFFIX,conman.org
+DOMAIN-SUFFIX,bortzmeyer.org
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,difyai.com
+DOMAIN-SUFFIX,genspark.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,signalr.net
+
+# 域名顶级后缀匹配
+DOMAIN,copilot.microsoft.com
+
+# 域名关键字匹配
+#DOMAIN-KEYWORD,openai
+
+# IP段匹配
+#IP-CIDR,219.146.1.66/32,no-resolve
