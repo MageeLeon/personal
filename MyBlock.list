@@ -1,12 +1,12 @@
 # 自定义拦截补充列表
 
-# 域名后缀匹配
+# 域名顶级后缀匹配
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,omtrdc.net
 
-# 域名顶级后缀匹配
+# 域名后缀匹配
 #DOMAIN,speed.cloudflare.com
 
 # 域名关键字匹配
