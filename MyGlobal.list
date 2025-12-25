@@ -147,7 +147,7 @@ DOMAIN-SUFFIX,colaotc.com
 #DOMAIN,speed.cloudflare.com
 
 # 域名关键字匹配
-#DOMAIN,ai.opendoor.cn
+#DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,142.171.133.0/24,no-resolve
