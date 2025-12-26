@@ -16,6 +16,9 @@ DOMAIN-SUFFIX,bybit.cloud
 DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN-SUFFIX,ada.support
 DOMAIN-SUFFIX,ready.co
+DOMAIN-SUFFIX,argent-api.com
+DOMAIN-SUFFIX,infura.io
+DOMAIN-SUFFIX,customer.io
 
 # 域名后缀匹配
 #DOMAIN,speed.cloudflare.com
