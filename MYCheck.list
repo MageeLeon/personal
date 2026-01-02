@@ -3,6 +3,7 @@
 # 域名顶级后缀匹配
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,ipv6-test.com
 DOMAIN-SUFFIX,ipw.cn
 DOMAIN-SUFFIX,ipcheck.im
 DOMAIN-SUFFIX,fast.com
