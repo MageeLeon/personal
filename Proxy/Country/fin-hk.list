@@ -14,4 +14,4 @@ DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org #HK-wifi-call
 #DOMAIN-KEYWORD,baidu
 
 # IP段匹配
-#IP-CIDR,219.146.1.66/32,香港-故障转移,no-resolve
+#IP-CIDR,219.146.1.66/32,no-resolve
