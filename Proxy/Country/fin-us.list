@@ -1,7 +1,7 @@
 # 国家-美国补充列表
 
 # 域名顶级后缀匹配
-DOMAIN-SUFFIX,talkatone.com,美国-故障转移 #US-wifi-call talkatone
+DOMAIN-SUFFIX,talkatone.com #US-wifi-call talkatone
 DOMAIN-SUFFIX,tktn.be #US-wifi-call talkatone
 DOMAIN-SUFFIX,cohere.com #US-wifi-call talkatone
 DOMAIN-SUFFIX,tktn.at #US-wifi-call talkatone
