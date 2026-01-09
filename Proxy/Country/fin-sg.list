@@ -31,10 +31,10 @@ DOMAIN,bybit.ada.support,新加坡-故障转移 #bybit交易所
 #DOMAIN-KEYWORD,baidu
 
 # IP段匹配
-IP-CIDR,13.32.121.6/32,新加坡-故障转移 #bybit交易所
-IP-CIDR,43.133.238.145/32,新加坡-故障转移 #bybit交易所
-IP-CIDR,13.33.187.108/32,新加坡-故障转移 #bybit交易所
-IP-CIDR,150.109.230.182/32,新加坡-故障转移 #bybit交易所
-IP-CIDR,142.251.215.234/32,新加坡-故障转移 #bybit交易所
-IP-CIDR,43.133.241.84/32,新加坡-故障转移 #bybit交易所
-IP-CIDR,3.160.150.37/32,新加坡-故障转移 #bybit交易所
+IP-CIDR,13.32.121.6/32,新加坡-故障转移,no-resolve #bybit交易所
+IP-CIDR,43.133.238.145/32,新加坡-故障转移,no-resolve #bybit交易所
+IP-CIDR,13.33.187.108/32,新加坡-故障转移,no-resolve #bybit交易所
+IP-CIDR,150.109.230.182/32,新加坡-故障转移,no-resolve #bybit交易所
+IP-CIDR,142.251.215.234/32,新加坡-故障转移,no-resolve #bybit交易所
+IP-CIDR,43.133.241.84/32,新加坡-故障转移,no-resolve #bybit交易所
+IP-CIDR,3.160.150.37/32,新加坡-故障转移,no-resolve #bybit交易所

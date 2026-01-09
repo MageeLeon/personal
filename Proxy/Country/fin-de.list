@@ -25,4 +25,4 @@ DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de,德国-故障转移 #欧区byb
 DOMAIN-KEYWORD,n26,德国-故障转移
 
 # IP段匹配
-#IP-CIDR,219.146.1.66/32,no-resolve
+#IP-CIDR,219.146.1.66/32,,德国-故障转移,no-resolve
