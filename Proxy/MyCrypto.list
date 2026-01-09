@@ -4,7 +4,6 @@
 #DOMAIN-SUFFIX,bycsi.com #OKX
 
 # 域名后缀匹配
-DOMAIN,api.onesignal.com #OKX
 DOMAIN,www.okx.com.cdn.cloudflare.net #OKX
 
 # 域名关键字匹配
