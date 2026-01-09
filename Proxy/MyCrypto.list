@@ -1,16 +1,16 @@
 # 自定义数字货币补充列表
 
 # 域名顶级后缀匹配
-#DOMAIN-SUFFIX,bycsi.com #OKX
+#DOMAIN-SUFFIX,bycsi.com
 
 # 域名后缀匹配
-DOMAIN,www.okx.com.cdn.cloudflare.net #OKX
+DOMAIN,www.okx.com.cdn.cloudflare.net
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,d1nil3qbkxfj92 #OKX
-DOMAIN-KEYWORD,d1w1p0smpsoh5j #OKX
-DOMAIN-KEYWORD,d2p7qknqur0nu9 #OKX
-DOMAIN-KEYWORD,ipyp0a #OKX
+DOMAIN-KEYWORD,d1nil3qbkxfj92
+DOMAIN-KEYWORD,d1w1p0smpsoh5j
+DOMAIN-KEYWORD,d2p7qknqur0nu9
+DOMAIN-KEYWORD,ipyp0a
 
 # IP段匹配
 #IP-CIDR,219.146.1.66/32,no-resolve
