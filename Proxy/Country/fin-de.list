@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de #欧区bybit
 #DOMAIN,client.messaging.adobe.com
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,n26
+DOMAIN-KEYWORD,n26 #德国n26
 
 # IP段匹配
-#IP-CIDR,219.146.1.66/32,,no-resolve
+#IP-CIDR,219.146.1.66/32,no-resolve
