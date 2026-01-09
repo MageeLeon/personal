@@ -1,6 +1,7 @@
 # 国家-香港补充列表
 
 # 域名顶级后缀匹配
+#HK-wifi-call
 DOMAIN-SUFFIX,csl.prod.ondemandconnectivity.com,香港-故障转移
 DOMAIN-SUFFIX,hhk.prod.ondemandconnectivity.com,香港-故障转移
 DOMAIN-SUFFIX,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org,香港-故障转移

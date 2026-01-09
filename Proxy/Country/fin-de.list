@@ -1,28 +1,30 @@
 # 国家-德国补充列表
 
 # 域名顶级后缀匹配
-DOMAIN-SUFFIX,n26.com #德国n26
-DOMAIN-SUFFIX,tech26.de #德国n26
-DOMAIN-SUFFIX,n26.co.uk #德国n26
-DOMAIN-SUFFIX,n26.de #德国n26
-DOMAIN-SUFFIX,n26.es #德国n26
-DOMAIN-SUFFIX,n26.it #德国n26
-DOMAIN-SUFFIX,n26.fr #德国n26
-DOMAIN-SUFFIX,n26.at #德国n26
-DOMAIN-SUFFIX,n26.com.au #德国n26
-DOMAIN-SUFFIX,number26.de #德国n26
-DOMAIN-SUFFIX,prodregistryv2.org #德国n26
-
-DOMAIN-SUFFIX,bybit.eu #欧区bybit
-DOMAIN-SUFFIX,bycsi.com #欧区bybit
-DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com #欧区bybit
-DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de #欧区bybit
+#德国n26
+DOMAIN-SUFFIX,n26.com,德国-故障转移
+DOMAIN-SUFFIX,tech26.de,德国-故障转移
+DOMAIN-SUFFIX,n26.co.uk,德国-故障转移
+DOMAIN-SUFFIX,n26.de,德国-故障转移
+DOMAIN-SUFFIX,n26.es,德国-故障转移
+DOMAIN-SUFFIX,n26.it,德国-故障转移
+DOMAIN-SUFFIX,n26.fr,德国-故障转移
+DOMAIN-SUFFIX,n26.at,德国-故障转移
+DOMAIN-SUFFIX,n26.com.au,德国-故障转移
+DOMAIN-SUFFIX,number26.de,德国-故障转移
+DOMAIN-SUFFIX,prodregistryv2.org,德国-故障转移
+#欧区bybit
+DOMAIN-SUFFIX,bybit.eu,德国-故障转移
+DOMAIN-SUFFIX,bycsi.com,德国-故障转移
+DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com,德国-故障转移
+DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de,德国-故障转移
 
 # 域名后缀匹配
 #DOMAIN,client.messaging.adobe.com
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,n26 #德国n26
+#德国n26
+DOMAIN-KEYWORD,n26,德国-故障转移
 
 # IP段匹配
 #IP-CIDR,219.146.1.66/32,no-resolve
