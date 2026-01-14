@@ -4,6 +4,8 @@
 #德国n26
 DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,lpsnmedia.net
+DOMAIN-SUFFIX,featureassets.org
+DOMAIN-SUFFIX,liveperson.net
 
 # 域名后缀匹配
 #DOMAIN,speed.cloudflare.com
